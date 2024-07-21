@@ -1,0 +1,16 @@
+{
+  "id": "4626409",
+  "name": "新闻",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "26904002",
+      "name": "箭头符号 16",
+      "font_class": "a-jiantoufuhao16",
+      "unicode": "e780",
+      "unicode_decimal": 59264
+    }
+  ]
+}
